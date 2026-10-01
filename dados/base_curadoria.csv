@@ -1,0 +1,109 @@
+composto,classe,categoria,grupo_isomerico,nivel_msi,justificativa,referencias
+Leucine,Aminoácido,A,C6H13NO2 (Leu/Ile/allo-Ile/Nle) — indistinguíveis por MS/MS,3,Leucina relatada em folhas/caules/raízes de V. planifolia. Reportar a feature como 'Leu/Ile'.,R1
+Isoleucine,Aminoácido,A,C6H13NO2 (Leu/Ile/allo-Ile/Nle) — indistinguíveis por MS/MS,3,Isoleucina relatada em V. planifolia. Isômero de Leu — consolidar como 'Leu/Ile'.,R1
+allo-Isoleucine,Aminoácido,E,C6H13NO2 (Leu/Ile/allo-Ile/Nle) — indistinguíveis por MS/MS,3,"Diastereoisômero raro, não proteinogênico; o espectro casa por isomeria com Leu/Ile. Reanotar como 'Leu/Ile'.",R1
+Norleucine,Aminoácido,E,C6H13NO2 (Leu/Ile/allo-Ile/Nle) — indistinguíveis por MS/MS,3,"Aminoácido não proteinogênico, raro em plantas; match por isomeria com Leu/Ile (8 linhas). Reanotar como 'Leu/Ile'.",R1
+Asparagine,Aminoácido,A,,2,Relatada em V. planifolia.,R1
+Phenylalanine,Aminoácido,A,,2,Relatada em V. planifolia; precursora da rota fenilpropanoide/vanilina.,R1;R7
+Tyrosine,Aminoácido,A,,2,Relatada em V. planifolia.,R1
+Arginine,Aminoácido,C,,2,"Aminoácido proteinogênico universal (não listado em R1, mas esperado).",
+N-Acetyl-L-leucine,Aminoácido modificado,C,,2,"Derivado N-acetilado de aminoácido; ocorre em plantas, baixa especificidade.",
+N-Acetyl-L-lysine,Aminoácido modificado,C,,2,Derivado N-acetilado de aminoácido; baixa especificidade.,
+"1,2,3,4-Tetrahydroisoquinoline-3-carboxylic acid (Tic)",Aminoácido não proteinogênico,D,,2,"Pode se formar de Phe + formaldeído (Pictet–Spengler), inclusive como artefato. Sem registro em Orchidaceae.",
+Asp-Phe,Peptídeo,C,,2,"Peptídeo curto de degradação proteica; plausível, mas inespecífico. Atenção: Asp-Phe também é produto de hidrólise do aspartame.",
+Gly-Leu,Peptídeo,C,,2,"Peptídeo curto de degradação proteica; plausível, mas inespecífico.",
+Gly-Phe,Peptídeo,C,,2,"Peptídeo curto de degradação proteica; plausível, mas inespecífico.",
+Met-Phe,Peptídeo,C,,2,"Peptídeo curto de degradação proteica; plausível, mas inespecífico.",
+Tyr-Val,Peptídeo,C,,2,"Peptídeo curto de degradação proteica; plausível, mas inespecífico.",
+Ile-Ile-Lys,Peptídeo,C,,2,"Peptídeo curto de degradação proteica; plausível, mas inespecífico.",
+Ile-Pro,Peptídeo,C,C11H20N2O3 (Ile-Pro/Leu-Pro),3,Peptídeo curto; isômero de Leu-Pro (não distinguíveis).,
+Leu-Pro,Peptídeo,C,C11H20N2O3 (Ile-Pro/Leu-Pro),3,Peptídeo curto; isômero de Ile-Pro (não distinguíveis).,
+Phe-Pro,Peptídeo,C,C14H18N2O3 (Phe-Pro/Pro-Phe),3,Peptídeo curto; isômero de sequência de Pro-Phe.,
+Pro-Phe,Peptídeo,C,C14H18N2O3 (Phe-Pro/Pro-Phe),3,Peptídeo curto; isômero de sequência de Phe-Pro.,
+pyroGlu-Pro,Peptídeo,C,,2,Piroglutamil-dipeptídeo; o piroglutamato também se forma na fonte de ionização (artefato in-source) a partir de Gln/Glu.,
+pyroGlu-Val,Peptídeo,C,,2,Piroglutamil-dipeptídeo; mesma ressalva de artefato in-source.,
+cyclo(L-Val-L-Pro),Dipeptídeo cíclico (DKP),D,,2,Dicetopiperazinas surgem por ação microbiana (endófitos) ou por aquecimento/fermentação. Sem registro em Orchidaceae.,R11
+Guanosine,Nucleosídeo,C,,2,Metabólito primário universal.,
+Hypoxanthine,Purina,C,,2,Metabólito primário universal (catabolismo de purinas).,
+Thymine,Pirimidina,C,,2,Metabólito primário universal.,
+5'-Methylthioadenosine (MTA),Nucleosídeo,C,,2,Subproduto universal da síntese de poliaminas/etileno; espermidina já relatada em V. planifolia.,R1
+6-(Methylthio)guanine,Purina sintética,F,,2,Metabólito de fármaco tiopurínico (6-tioguanina); sem origem vegetal.,
+Caffeine,Alcaloide purínico,F,,2,"Orchidaceae não produz alcaloides purínicos (típicos de Coffea, Camellia, Theobroma, Ilex). Cafeína é contaminante frequente de laboratório (contaminação cruzada).",R8
+Theobromine,Alcaloide purínico,F,C7H8N4O2 (teobromina/paraxantina/teofilina),3,Sem rota em Orchidaceae; provável contaminação cruzada/carryover. 5 linhas.,
+Paraxanthine,Alcaloide purínico,F,C7H8N4O2 (teobromina/paraxantina/teofilina),3,Metabólito humano da cafeína; não esperado em planta.,
+Theophylline,Alcaloide purínico,F,C7H8N4O2 (teobromina/paraxantina/teofilina),3,Sem rota em Orchidaceae; isômero de teobromina/paraxantina.,
+Arabinose,Açúcar (pentose),A,,2,Relatada em V. planifolia.,R1
+Mannose,Açúcar (hexose),C,C6H12O6 (hexoses),3,Hexose comum; isômero de glicose/frutose (estas relatadas em V. planifolia). Reanotar como 'hexose'.,R1
+Psicose (alulose),Açúcar (hexose),E,C6H12O6 (hexoses),3,Açúcar raro; o match é por isomeria. Provavelmente glicose/frutose (abundantes em V. planifolia; a glicose também vem da hidrólise da glucovanilina). Reanotar como 'hexose'.,R1
+Sorbose,Açúcar (hexose),E,C6H12O6 (hexoses),3,Açúcar raro; mesma situação da psicose. Reanotar como 'hexose'.,R1
+D-Mannitol,Poliol,A,,2,Relatado em V. planifolia.,R1
+Glucosamine,Aminoaçúcar,C,,2,N-acetilglucosamina relatada em V. planifolia; a glucosamina é plausível (ou fragmento/desacetilação).,R1
+Ferulic acid,Ácido hidroxicinâmico,A,,2,Relatado em V. planifolia; precursor direto da vanilina (VpVAN).,R1;R4;R7
+Sinapic acid,Ácido hidroxicinâmico,A,,2,"Relatado em V. planifolia (ácido 3,5-dimetoxi-4-hidroxicinâmico).",R1
+Syringaldehyde,Aldeído fenólico,D,,2,"Não listado em R1, mas a rota siringílica está ativa em V. planifolia (ácido sinápico; sinapaldeído nas vagens). Plausível.",R1;R4
+Syringic acid,Ácido hidroxibenzoico,D,,2,"Mesma justificativa do siringaldeído (análogo siringílico do ácido vanílico, que é relatado).",R1;R4
+Guaiacol,Fenol volátil,A,,2,"Composto de aroma da baunilha curada. Por ser volátil, é atípico em LC-MS; confirmar.",R5
+3-Hydroxybenzyl alcohol,Álcool benzílico,A,C7H8O2 (3-/4-hidroxibenzil álcool),3,Provável erro de isômero posicional: o álcool 4-hidroxibenzílico é relatado em V. planifolia. Reanotar como 'hidroxibenzil álcool (provável 4-OH)'.,R1
+"3,4,5-Trimethoxyphenol",Fenol,D,,2,Fenol metoxilado; sem registro na família.,
+"3,4,5-Trimethoxycinnamic acid",Ácido hidroxicinâmico,D,,2,Derivado metoxilado da rota fenilpropanoide; sem registro na família.,
+"2-Hydroxy-4,6-dimethoxyacetophenone (xanthoxylin)",Acetofenona,D,,2,Acetofenona natural (Rutaceae e outras); sem registro em Orchidaceae.,
+Maltol,Pirona,D,,2,Formado em aquecimento/processamento e presente em várias plantas; sem registro em Vanilla nas fontes consultadas.,
+6-Methoxy-4-methylcoumarin,Cumarina,D,,2,Cumarinas foram anotadas em Vanilla spp.; este derivado específico é mais comum como composto de biblioteca sintética.,R2
+Diosmin,Flavonoide (flavona glicosilada),A,,2,Diosmetina e 'diosmetina desoxi-hexose-hexose' (= composição da diosmina) foram relatadas em V. planifolia.,R1
+Tricin 5-O-glucoside,Flavonoide (flavona glicosilada),B,,2,Tricina 5-glucosídeo foi anotada em orquídeas (Vanda/Cattleya).,R3
+"2',5-Dimethoxyflavone",Flavonoide (flavona),D,,3,Flavonas polimetoxiladas (ex.: sinensetina) foram relatadas em V. planifolia; este composto específico é de biblioteca sintética. Nível de classe.,R1
+"2,2'-Dihydroxychalcone",Flavonoide (chalcona),B,,3,Chalconas foram anotadas em folhas de Vanilla spp. O composto específico não foi confirmado: tratar como nível de classe.,R2
+4'-Hydroxychalcone,Flavonoide (chalcona),B,,3,Idem: classe presente em Vanilla spp.; composto específico não confirmado.,R2
+Loliolide,Norisoprenoide (monoterpenoide lactona),B,,2,"Anotado em orquídeas (Vanda/Cattleya), associado a atividade antifúngica.",R3
+Dihydro-alpha-ionone,Norisoprenoide (C13),D,,2,"Produto de degradação de carotenoides, comum em aromas vegetais; sem registro confirmado na família.",
+Kaurane-type diterpenoid caffeate ester,Diterpenoide (ent-caurano) esterificado,B,,2,Diterpenoides do tipo caurano e ésteres de ácidos cinâmicos com terpenoides foram anotados em folhas de Vanilla spp. brasileiras.,R2
+Gitoxigenin diacetate,Cardenolídeo (esteroide),E,,2,Cardenolídeo típico de Digitalis (Plantaginaceae); sem registro em Orchidaceae.,
+Methyl jasmonate,Oxilipina / fitormônio,C,,2,Fitormônio universal da via LOX.,
+alpha-Linolenic acid,Ácido graxo (18:3),A,,2,Relatado em V. planifolia. O nome original estava com encoding quebrado ('?-linolenic').,R1
+DAG(16:0/18:2),Glicerolipídio,C,,2,Diacilglicerol com ácidos graxos típicos de plantas; acilgliceróis relatados em V. planifolia.,R1
+Dilinolenin (DAG 18:3/18:3),Glicerolipídio,C,DAG 36:6 (α/γ-18:3),3,"A biblioteca indica gama-linolênico (18:3 n-6), raro em plantas; o isômero alfa (18:3 n-3) é o esperado. Reanotar como DAG 18:3/18:3.",R1
+PC(16:0/18:1) (POPC),Fosfolipídio,C,,2,Fosfatidilcolina de membrana com ácidos graxos típicos de plantas.,
+PC(16:0/18:2) (PLPC),Fosfolipídio,C,,2,Fosfatidilcolina de membrana com ácidos graxos típicos de plantas.,
+LysoPC(16:0),Fosfolipídio,C,,2,Lisofosfolipídio de membrana; também pode surgir por fragmentação in-source.,
+PC(18:0/20:3),Fosfolipídio,D,PC 38:3,3,"A classe é plausível, mas o ácido graxo 20:3 é atípico em plantas superiores. Provável erro de composição acila (mesma soma: PC 38:3).",
+PI(17:0/18:3),Fosfolipídio,D,PI 35:3,3,Ácido graxo de cadeia ímpar (17:0) é incomum; provável PI 35:3 com outra distribuição.,
+PE(20:3/22:6),Fosfolipídio,E,PE 42:9,3,"O 22:6 (DHA) é de origem animal/algal, ausente em plantas superiores.",
+PE(P-16:0/22:4),Fosfolipídio (plasmalogênio),E,PE O-38:5,3,"Plasmalogênios e o 22:4 são característicos de animais e bactérias anaeróbias, não de plantas.",
+9(10)-EpOME,Oxilipina,C,,2,Epóxido de ácido linoleico (via oxilipinas). A via LOX foi destacada em folhas de V. planifolia (estudo não acessado).,
+9(S)-HpOTrE,Oxilipina,C,,2,"Hidroperóxido de α-linolênico, produto direto da 9-LOX vegetal.",
+"Methyl (9Z,11E,13E)-octadecatrienoate",Éster metílico de ácido graxo,D,,2,Pode ser artefato de metilação durante extração com metanol.,
+3-Hydroxyoctadecanoic acid,Hidroxiácido graxo,D,,2,Hidroxiácidos graxos foram anotados em Vanilla spp.; o 3-OH também é marcador de lipídio A bacteriano.,R2
+Oleamide,Amida de ácido graxo,F,,2,"Ocorre em plantas, mas é um contaminante clássico liberado por plásticos (ponteiras, tubos).",R9
+Lichesterylic acid,Ácido graxo (lactona),E,,2,Metabólito característico de liquens.,
+Isovaleric acid,Ácido orgânico de cadeia curta,D,,2,Ácido volátil; não relatado no metaboloma de V. planifolia (R1); pode vir de atividade microbiana.,R1
+Dimethylmalonic acid,Ácido dicarboxílico,D,,2,Baixa especificidade; sem registro na família.,
+Acetoacetate,Cetoácido,C,,2,Intermediário do metabolismo primário; baixa especificidade.,
+Choline,Amina quaternária,A,,2,Relatada em V. planifolia.,R1
+Indole-3-acetic acid,Indol (auxina),C,,2,Auxina universal em plantas; indol-3-carbaldeído relatado em V. planifolia.,R1
+3-Indoleacrylic acid,Indol,D,,2,"Metabólito de triptofano, frequente em microrganismos; sem registro na família.",
+Kynurenic acid,Derivado de triptofano,D,,2,Ocorre em várias plantas; não relatado em V. planifolia (R1).,R1
+Harmane,β-carbolina,D,,2,"Formada a partir de triptofano, também por aquecimento; ampla ocorrência em alimentos. Sem registro em Orchidaceae.",R10
+Norharman,β-carbolina,D,,2,Mesma justificativa do harmano.,R10
+Abrine (N-methyl-L-tryptophan),Aminoácido indólico,E,,2,Característico de Abrus (Fabaceae).,
+Berbamine,Alcaloide bisbenzilisoquinolínico,E,,2,Típico de Berberidaceae/Menispermaceae; sem registro em Orchidaceae.,
+Lydicamycin derivative (TPU-0037C),Policetídeo microbiano,E,,2,Produzido por Streptomyces; só faria sentido como metabólito de endófito.,
+"1-(2-Hydroxyethyl)-2,2,6,6-tetramethyl-4-piperidinol",Amina (estabilizante de polímero),F,,2,Produto de degradação de estabilizante de plástico (HALS tipo Tinuvin 622) — contaminante.,R8
+4-((Hydroxyimino)methyl)-1-methylquinolin-2-one,Quinolinona,F,,2,"Composto de biblioteca sintética, sem ocorrência natural conhecida.",
+6-Ethyl-4-methylquinolin-2-one,Quinolinona,F,,2,Composto de biblioteca sintética.,
+"1,8-Dimethyl-3,6-diazatricyclo[4.3.1.1(3,8)]undecan-9-ol",Amina policíclica,F,,2,"Estrutura sintética, sem ocorrência natural conhecida.",
+Pyrimidinetrione (barbiturate) derivative,Barbiturato sintético,F,,2,Composto sintético de biblioteca.,
+"Diarylheptanoid glucoside (1,7-bis(4-hydroxyphenyl)heptan-3-one 5-O-glucoside)",Diarilheptanoide glicosilado,E,,2,Típico de Zingiberaceae e Betulaceae; sem registro em Orchidaceae.,
+Cinnamoyl secoiridoid glucoside (oleoside-type),Secoiridoide glicosilado,E,,2,Secoiridoides do tipo oleosídeo são típicos de Oleaceae/Gentianales.,
+Prenylated hydroxybenzoic acid (C22),Meroterpenoide (ácido benzoico prenilado),E,,2,Comum em Piperaceae; sem registro em Orchidaceae.,
+13²-Hydroxypheophorbide a,Tetrapirrol (catabólito de clorofila),C,,2,Catabólito de clorofila — esperado em tecido verde (folha ou vagem verde).,
+Pyropheophytin a,Tetrapirrol (catabólito de clorofila),C,,2,Derivado de clorofila; também se forma por aquecimento ou estocagem do extrato.,
+d-Dethiobiotin,Cofator (precursor de biotina),C,,2,"Intermediário da biossíntese de biotina, presente em plantas.",
+Septum vial contaminants (Thermo C4000-53/54),Contaminante,F,,2,O próprio nome indica contaminante de septo de vial.,R8
+Cyclohexylamine,Amina industrial,F,,2,Aditivo industrial; contaminante.,
+"1,3-Dicyclohexylurea",Ureia sintética,F,,2,Subproduto do DCC (reagente de síntese) e contaminante conhecido de LC-MS.,R8
+DEET,Repelente sintético,F,,2,Repelente de insetos (contaminação ambiental ou de manipulação).,
+Diphenylamine,Amina aromática,F,,2,Antioxidante industrial e pós-colheita; provável contaminante. 3 linhas.,
+4-Chlorophenylurea,Metabólito de pesticida,F,,2,"Metabólito de herbicidas/inseticidas fenilureicos (ex.: diflubenzuron) — resíduo agrícola, não metabólito vegetal.",
+N-Nitrosopyrrolidine,Nitrosamina,F,,2,Nitrosamina; artefato/contaminante. Confirmar antes de reportar.,
+Finasteride,Fármaco,F,,2,Fármaco sintético (inibidor de 5α-redutase).,
+NL3680000 (não resolvido),Indeterminado,F,,2,Código de registro sem nome químico; não é possível curar. Rever a anotação no software de origem.,

@@ -1,0 +1,149 @@
+﻿numero;nome_original;composto;biblioteca;id_banco;energia_colisao;problemas;duplicata;categoria
+1;(1)-1,2,3,4-Tetrahydroisoquinoline-3-carboxylic acid CollisionEnergy:205060;1,2,3,4-Tetrahydroisoquinoline-3-carboxylic acid (Tic);Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Não;D
+2;1-(2H-benzo[3,4-d]1,3-dioxolen-5-yl)-5-[(4-piperidylphenyl)methylene]-1,3-dihy dropyrimidine-2,4,6-trione CollisionEnergy:102040;Pyrimidinetrione (barbiturate) derivative;Não informada;;10/20/40 (escalonada);"energia de colisão embutida no nome; espaço indevido dentro do nome";Não;F
+3;1-(2-Hydroxyethyl)-2,2,6,6-tetramethyl-4-piperidinol;1-(2-Hydroxyethyl)-2,2,6,6-tetramethyl-4-piperidinol;Não informada;;Não informada;;Não;F
+4;1,7-bis(4-hydroxyphenyl)-5-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyheptan-3-one;Diarylheptanoid glucoside (1,7-bis(4-hydroxyphenyl)heptan-3-one 5-O-glucoside);Não informada;;Não informada;;Não;E
+5;(1R,3r,8S,9r)-1,8-dimethyl-3,6-diazatricyclo[4.3.1.1(3,8)]undecan-9-ol;1,8-Dimethyl-3,6-diazatricyclo[4.3.1.1(3,8)]undecan-9-ol;Não informada;;Não informada;;Não;F
+6;[(1S,9S,13R,14R)-14-hydroxy-14-(hydroxymethyl)-5,5-dimethyltetracyclo[11.2.1.0¹,¹?.0?,?]hexadecan-9-yl]methyl (2E)-3-(3,4-dihydroxyphenyl)prop-2-enoate;Kaurane-type diterpenoid caffeate ester;Não informada;;Não informada;caractere corrompido (encoding);Não;B
+7;2,2'-Dihydroxychalcone CollisionEnergy:102040;2,2'-Dihydroxychalcone;Não informada;;10/20/40 (escalonada);energia de colisão embutida no nome;Não;B
+8;2',5-Dimethoxyflavone CollisionEnergy:102040;2',5-Dimethoxyflavone;Não informada;;10/20/40 (escalonada);energia de colisão embutida no nome;Não;D
+9;2-Hydroxy-4,6-dimethoxyacetophenone;2-Hydroxy-4,6-dimethoxyacetophenone (xanthoxylin);Não informada;;Não informada;;Não;D
+10;3.10S-Hydroxypheophorbide a;13²-Hydroxypheophorbide a;Não informada;;Não informada;nomenclatura irregular;Não;C
+11;3,4,5-Trimethoxyphenol CollisionEnergy:102040;3,4,5-Trimethoxyphenol;Não informada;;10/20/40 (escalonada);energia de colisão embutida no nome;Não;D
+12;3,4,5-Trimethoxyphenol CollisionEnergy:205060;3,4,5-Trimethoxyphenol;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Sim;D
+13;3-HYDROXY-2-METHYL-4-PYRONE;Maltol;Não informada;;Não informada;caixa alta inconsistente;Não;D
+14;3-hydroxybenzyl alcohol CollisionEnergy:102040;3-Hydroxybenzyl alcohol;Não informada;;10/20/40 (escalonada);energia de colisão embutida no nome;Não;A
+15;3-hydroxybenzyl alcohol CollisionEnergy:205060;3-Hydroxybenzyl alcohol;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Sim;A
+16;3-Indoleacrylic acid CollisionEnergy:205060;3-Indoleacrylic acid;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Não;D
+17;4-hydroxy-3-[(E)-7-hydroxy-3,7-dimethyl-4-oxooct-5-enyl]-5-(3-methylbut-2-enyl)benzoic acid;Prenylated hydroxybenzoic acid (C22);Não informada;;Não informada;;Não;E
+18;4'-HYDROXYCHALCONE;4'-Hydroxychalcone;Não informada;;Não informada;caixa alta inconsistente;Não;B
+19;4-((hydroxyimino)methyl)-1-methylhydroquinolin-2-one CollisionEnergy:102040;4-((Hydroxyimino)methyl)-1-methylquinolin-2-one;Não informada;;10/20/40 (escalonada);energia de colisão embutida no nome;Não;F
+20;(4S,5Z,6S)-4-(2-methoxy-2-oxoethyl)-5-[2-[(E)-3-phenylprop-2-enoyl]oxyethylidene]-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4H-pyran-3-carboxylic acid;Cinnamoyl secoiridoid glucoside (oleoside-type);Não informada;;Não informada;;Não;E
+21;6-ethyl-4-methylhydroquinolin-2-one CollisionEnergy:205060;6-Ethyl-4-methylquinolin-2-one;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Não;F
+22;6-methoxy-4-methyl-2H-chromen-2-one;6-Methoxy-4-methylcoumarin;Não informada;;Não informada;;Não;D
+23;6-(Methylthio)guanine CollisionEnergy:205060;6-(Methylthio)guanine;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Não;F
+24;7-hydroxy-2-(4-hydroxy-3,5-dimethoxyphenyl)-5-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxychromen-4-one;Tricin 5-O-glucoside;Não informada;;Não informada;;Não;B
+25;ACETOACETATE - 70.0 eV;Acetoacetate;Não informada;;70 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Não;C
+26;AC-LYS-OH - 40.0 eV;N-Acetyl-L-lysine;Não informada;;40 eV;energia de colisão embutida no nome;Não;C
+27;ALLO-ISOLEUCINE;allo-Isoleucine;Não informada;;Não informada;caixa alta inconsistente;Não;E
+28;ARABINOSE;Arabinose;Não informada;;Não informada;caixa alta inconsistente;Não;A
+29;Arginine - 70.00 eV;Arginine;Não informada;;70 eV;energia de colisão embutida no nome;Não;C
+30;ASPARAGINE;Asparagine;Não informada;;Não informada;caixa alta inconsistente;Não;A
+31;ASP-PHE;Asp-Phe;Não informada;;Não informada;;Não;C
+32;BERBAMINE CollisionEnergy:102040;Berbamine;Não informada;;10/20/40 (escalonada);"energia de colisão embutida no nome; caixa alta inconsistente";Não;E
+33;CAFFEINE - 20.0 eV;Caffeine;Não informada;;20 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Não;F
+34;CHOLINE;Choline;Não informada;;Não informada;caixa alta inconsistente;Não;A
+35;Contaminants septum vial Thermo C4000-53 and C4000-54 serie;Septum vial contaminants (Thermo C4000-53/54);Não informada;;Não informada;;Não;F
+36;Cyclohexylamine;Cyclohexylamine;Não informada;;Não informada;;Não;F
+37;cyclo(L-Val-L-Pro);cyclo(L-Val-L-Pro);Não informada;;Não informada;;Não;D
+38;DAG (16:0/18:2);DAG(16:0/18:2);Não informada;;Não informada;;Não;C
+39;d-Dethiobiotin CollisionEnergy:102040;d-Dethiobiotin;Não informada;;10/20/40 (escalonada);energia de colisão embutida no nome;Não;C
+40;Diosmin;Diosmin;Não informada;;Não informada;;Não;A
+41;D-Mannitol;D-Mannitol;Não informada;;Não informada;;Não;A
+42;ferulic acid CollisionEnergy:205060;Ferulic acid;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Não;A
+43;Finasteride;Finasteride;Não informada;;Não informada;;Não;F
+44;Gitoxigenin Diacetate;Gitoxigenin diacetate;Não informada;;Não informada;;Não;E
+45;GLUCOSAMINE;Glucosamine;Não informada;;Não informada;caixa alta inconsistente;Não;C
+46;Glycyl-L-leucine CollisionEnergy:205060;Gly-Leu;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Não;C
+47;Gly-Leu - 40.0 eV;Gly-Leu;Não informada;;40 eV;energia de colisão embutida no nome;Sim;C
+48;guaiacol CollisionEnergy:102040;Guaiacol;Não informada;;10/20/40 (escalonada);energia de colisão embutida no nome;Não;A
+49;guaiacol CollisionEnergy:205060;Guaiacol;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Sim;A
+50;Guanosine - 40.0 eV;Guanosine;Não informada;;40 eV;energia de colisão embutida no nome;Não;C
+51;GUANOSINE - 40.0 eV;Guanosine;Não informada;;40 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;C
+52;Harmane;Harmane;Não informada;;Não informada;;Não;D
+53;HMDB:HMDB02001-1936 Dimethylmalonic acid;Dimethylmalonic acid;HMDB;HMDB02001-1936;Não informada;ID do banco embutido no nome;Não;D
+54;HYPOXANTHINE;Hypoxanthine;Não informada;;Não informada;caixa alta inconsistente;Não;C
+55;INDOLEACETIC ACID;Indole-3-acetic acid;Não informada;;Não informada;caixa alta inconsistente;Não;C
+56;INDOLEACRYLIC ACID;3-Indoleacrylic acid;Não informada;;Não informada;caixa alta inconsistente;Sim;D
+57;ISOLEUCINE;Isoleucine;Não informada;;Não informada;caixa alta inconsistente;Não;A
+58;ISOLEUCINE - 20.0 eV;Isoleucine;Não informada;;20 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;A
+59;ISOLEUCINE - 30.0 eV;Isoleucine;Não informada;;30 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;A
+60;Isovaleric acid;Isovaleric acid;Não informada;;Não informada;;Não;D
+61;jasmonic acid methyl ester CollisionEnergy:205060;Methyl jasmonate;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Não;C
+62;kynurenic acid CollisionEnergy:205060;Kynurenic acid;Não informada;;20/50/60 (escalonada);energia de colisão embutida no nome;Não;D
+63;LEUCINE;Leucine;Não informada;;Não informada;caixa alta inconsistente;Não;A
+64;Leucine - 20.00 eV;Leucine;Não informada;;20 eV;energia de colisão embutida no nome;Sim;A
+65;LEUCINE - 20.00 eV;Leucine;Não informada;;20 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;A
+66;LEUCINE - 30.00 eV;Leucine;Não informada;;30 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;A
+67;Leucine - 60.00 eV;Leucine;Não informada;;60 eV;energia de colisão embutida no nome;Sim;A
+68;LEUCINE - 60.00 eV;Leucine;Não informada;;60 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;A
+69;Lichesterylic acid;Lichesterylic acid;Não informada;;Não informada;;Não;E
+70;L-(+)-Isoleucine - 40.0 eV;Isoleucine;Não informada;;40 eV;energia de colisão embutida no nome;Sim;A
+71;L-leucine;Leucine;Não informada;;Não informada;;Sim;A
+72;L-(+)-norleucine - 40.0 eV;Norleucine;Não informada;;40 eV;energia de colisão embutida no nome;Não;E
+73;Loliolide;Loliolide;Não informada;;Não informada;;Não;B
+74;lydicamycin derivative: TPU-0037C;Lydicamycin derivative (TPU-0037C);Não informada;;Não informada;;Não;E
+75;MANNOSE;Mannose;Não informada;;Não informada;caixa alta inconsistente;Não;C
+76;Massbank:AU252106 4-Hydroxy-1-(2-hydroxyethyl)-2,2,6,6-tetramethylpiperidine|1-Piperidineethanol, 4-hydroxy-2,2,6,6-tetramethyl-|1-(2-hydroxyethyl)-2,2,6,6-tetramethylpiperidin-4-ol;1-(2-Hydroxyethyl)-2,2,6,6-tetramethyl-4-piperidinol;MassBank;AU252106;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Sim;F
+77;Massbank:EA021311 DEET|N,N-Diethyl-m-toluamide|N,N-diethyl-3-methyl-benzamide;DEET;MassBank;EA021311;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Não;F
+78;Massbank:EQ309203 Diphenylamine|N-phenylaniline;Diphenylamine;MassBank;EQ309203;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Não;F
+79;Massbank:EQ309204 Diphenylamine|N-phenylaniline;Diphenylamine;MassBank;EQ309204;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Sim;F
+80;Massbank:LU129801 4-Chlorophenylurea|(4-chlorophenyl)urea;4-Chlorophenylurea;MassBank;LU129801;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Não;F
+81;Massbank:PB000393 Leucine|2-amino-4-methylpentanoic acid;Leucine;MassBank;PB000393;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Sim;A
+82;Massbank:PB000397 Isoleucine|2-amino-3-methylpentanoic acid;Isoleucine;MassBank;PB000397;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Sim;A
+83;Massbank:PB000408 Phenylalanine|2-amino-3-phenylpropanoic acid;Phenylalanine;MassBank;PB000408;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Não;A
+84;Massbank:PB000458 Asparagine|2,4-diamino-4-oxobutanoic acid;Asparagine;MassBank;PB000458;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Sim;A
+85;Massbank:PB000619 Syringaldehyde|4-hydroxy-3,5-dimethoxybenzaldehyde;Syringaldehyde;MassBank;PB000619;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Não;D
+86;Massbank:RP030402 ?-linolenic acid|linolenic acid|(9Z,12Z,15Z)-octadeca-9,12,15-trienoic acid;alpha-Linolenic acid;MassBank;RP030402;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'; caractere corrompido (encoding)";Não;A
+87;Massbank:RP030403 ?-linolenic acid|linolenic acid|(9Z,12Z,15Z)-octadeca-9,12,15-trienoic acid;alpha-Linolenic acid;MassBank;RP030403;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'; caractere corrompido (encoding)";Sim;A
+88;Massbank:UA005501 L-Phenylalanine|(2S)-2-Azaniumyl-3-phenylpropanoate;Phenylalanine;MassBank;UA005501;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Sim;A
+89;Massbank:UA005601 L-Tyrosine|(2S)-2-Azaniumyl-3-(4-hydroxyphenyl)propanoate;Tyrosine;MassBank;UA005601;Não informada;"ID do banco embutido no nome; sinônimos concatenados com '|'";Não;A
+90;METHYLTHIOADENOSINE - 20.0 eV;5'-Methylthioadenosine (MTA);Não informada;;20 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Não;C
+91;MoNA:823334 Nitroso-Pyrrolidine;N-Nitrosopyrrolidine;MoNA;823334;Não informada;ID do banco embutido no nome;Não;F
+92;N-Acetyl-L-leucine - 40.0 eV;N-Acetyl-L-leucine;Não informada;;40 eV;energia de colisão embutida no nome;Não;C
+93;NL3680000 - 40.0 eV;NL3680000 (não resolvido);Não informada;;40 eV;"energia de colisão embutida no nome; código no lugar do nome";Não;F
+94;Norharman;Norharman;Não informada;;Não informada;;Não;D
+95;NORLEUCINE - 20.0 eV;Norleucine;Não informada;;20 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;E
+96;NORLEUCINE - 30.0 eV;Norleucine;Não informada;;30 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;E
+97;NORLEUCINE - 40.0 eV;Norleucine;Não informada;;40 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;E
+98;NORLEUCINE - 50.0 eV;Norleucine;Não informada;;50 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;E
+99;NORLEUCINE - 60.0 eV;Norleucine;Não informada;;60 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;E
+100;NORLEUCINE - 70.0 eV;Norleucine;Não informada;;70 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;E
+101;PARAXANTHINE - 20.0 eV;Paraxanthine;Não informada;;20 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Não;F
+102;PARAXANTHINE - 30.0 eV;Paraxanthine;Não informada;;30 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;F
+103;"PC(18:0/20:3); [M+H]+ C46H87N1O8P1";PC(18:0/20:3);Não informada;;Não informada;aduto e fórmula embutidos no nome;Não;D
+104;"PE(20:3/22:6); [M-H]- C47H75N1O8P1";PE(20:3/22:6);Não informada;;Não informada;aduto e fórmula embutidos no nome;Não;E
+105;"PE(P-16:0/22:4); [M-H]- C43H77N1O7P1";PE(P-16:0/22:4);Não informada;;Não informada;aduto e fórmula embutidos no nome;Não;E
+106;"PI(17:0/18:3); [M-H]- C44H78O13P1";PI(17:0/18:3);Não informada;;Não informada;aduto e fórmula embutidos no nome;Não;D
+107;PSICOSE;Psicose (alulose);Não informada;;Não informada;caixa alta inconsistente;Não;E
+108;Pyropheophytin a;Pyropheophytin a;Não informada;;Não informada;;Não;C
+109;SINAPIC ACID CollisionEnergy:205060;Sinapic acid;Não informada;;20/50/60 (escalonada);"energia de colisão embutida no nome; caixa alta inconsistente";Não;A
+110;SORBOSE;Sorbose;Não informada;;Não informada;caixa alta inconsistente;Não;E
+111;1,3-Dicyclohexylurea from NIST14;1,3-Dicyclohexylurea;NIST14;;Não informada;"espaço extra no início/fim; sufixo de biblioteca no nome";Não;F
+112;1-Oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine from NIST14;PC(16:0/18:1) (POPC);NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+113;1-Palmitoyl-2-linoleoyl-sn-glycero-3-phosphocholine from NIST14;PC(16:0/18:2) (PLPC);NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+114;2-Butanone, 4-(2,6,6-trimethyl-2-cyclohexen-1-yl)- from NIST14;Dihydro-alpha-ionone;NIST14;;Não informada;sufixo de biblioteca no nome;Não;D
+115;3,4,5-Trimethoxycinnamic acid from NIST14;3,4,5-Trimethoxycinnamic acid;NIST14;;Não informada;sufixo de biblioteca no nome;Não;D
+116;3-Hydroxyoctadecanoic Acid from NIST14;3-Hydroxyoctadecanoic acid;NIST14;;Não informada;sufixo de biblioteca no nome;Não;D
+117;9(10)-EpOME from NIST14;9(10)-EpOME;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+118;9-Octadecenamide, (Z)- from NIST14;Oleamide;NIST14;;Não informada;sufixo de biblioteca no nome;Não;F
+119;9(S)-HpOTrE from NIST14;9(S)-HpOTrE;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+120;9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14;Methyl (9Z,11E,13E)-octadecatrienoate;NIST14;;Não informada;sufixo de biblioteca no nome;Não;D
+121;Abrine from NIST14;Abrine (N-methyl-L-tryptophan);NIST14;;Não informada;sufixo de biblioteca no nome;Não;E
+122;Adenosine, 5'-S-methyl-5'-thio- from NIST14;5'-Methylthioadenosine (MTA);NIST14;;Não informada;sufixo de biblioteca no nome;Sim;C
+123;Choline cation from NIST14;Choline;NIST14;;Não informada;sufixo de biblioteca no nome;Sim;A
+124;Di-.gamma.-linolenin (6c,9c,12c) from NIST14;Dilinolenin (DAG 18:3/18:3);NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+125;Diphenylamine from NIST14;Diphenylamine;NIST14;;Não informada;sufixo de biblioteca no nome;Sim;F
+126;Gly-Leu from NIST14;Gly-Leu;NIST14;;Não informada;sufixo de biblioteca no nome;Sim;C
+127;Gly-Phe from NIST14;Gly-Phe;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+128;Harmane from NIST14;Harmane;NIST14;;Não informada;sufixo de biblioteca no nome;Sim;D
+129;Ile-Ile-Lys from NIST14;Ile-Ile-Lys;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+130;Ile-Pro from NIST14;Ile-Pro;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+131;Leu-Pro from NIST14;Leu-Pro;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+132;Lyso-PC(16:0) from NIST14;LysoPC(16:0);NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+133;Met-Phe from NIST14;Met-Phe;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+134;Phe-Pro from NIST14;Phe-Pro;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+135;Pro-Phe from NIST14;Pro-Phe;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+136;PyroGlu-Pro from NIST14;pyroGlu-Pro;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+137;PyroGlu-Val from NIST14;pyroGlu-Val;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+138;Syringaldehyde from NIST14;Syringaldehyde;NIST14;;Não informada;sufixo de biblioteca no nome;Sim;D
+139;Syringic acid from NIST14;Syringic acid;NIST14;;Não informada;sufixo de biblioteca no nome;Não;D
+140;Theobromine from NIST14;Theobromine;NIST14;;Não informada;sufixo de biblioteca no nome;Não;F
+141;trans-Ferulic acid from NIST14;Ferulic acid;NIST14;;Não informada;sufixo de biblioteca no nome;Sim;A
+142;Tyr-Val from NIST14;Tyr-Val;NIST14;;Não informada;sufixo de biblioteca no nome;Não;C
+143;THEOBROMINE;Theobromine;Não informada;;Não informada;caixa alta inconsistente;Sim;F
+144;THEOBROMINE - 20.0 eV;Theobromine;Não informada;;20 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;F
+145;THEOBROMINE - 30.0 eV;Theobromine;Não informada;;30 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;F
+146;THEOPHYLLINE - 20.0 eV;Theophylline;Não informada;;20 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Não;F
+147;THYMINE;Thymine;Não informada;;Não informada;caixa alta inconsistente;Não;C
+148;THYMINE - 30.0 eV;Thymine;Não informada;;30 eV;"energia de colisão embutida no nome; caixa alta inconsistente";Sim;C
